@@ -1,0 +1,1 @@
+console.log(42);module.exports={a:1};
